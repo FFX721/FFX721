@@ -1,4 +1,4 @@
-### Hi there, I'm Lars - aka FFX721website 👋 
+### Hi there, I'm Lars - aka FFX721 👋 
 
 !Website(https://faier-it.de)
 
@@ -41,23 +41,15 @@
 
 <br />
 
----
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="FFX721's GitHub Stats" src="https://github-readme-stats.FFX721.vercel.app/api?username=FFX721&show_icons=true&hide_border=true" />
-
-</details>
-
-website: https://faier-it.de
-linkedin: https://linkedin.com/in/
-
-
 
 <!--
+<details>
+  <summary>:zap: </summary>
+
+
+</details>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
